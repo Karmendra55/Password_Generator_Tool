@@ -129,13 +129,3 @@ Once started, the authentication dialog will appear and allow you to create an a
 * Pyperclip
 * PBKDF2-HMAC-SHA256
 * Fernet Encryption
-
-## Future Improvements
-
-* Credential search and filtering.
-* Password breach detection.
-* Auto-lock after inactivity.
-* Export and import vault functionality.
-* Password expiration reminders.
-* Two-factor authentication support.
-* Cross-platform packaging and installer support.
