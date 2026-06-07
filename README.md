@@ -71,6 +71,14 @@ pip install -r requirements.txt
 python main.py
 ```
 
+OR
+
+Run the file name:
+```bash
+Run_Application.cmd
+```
+To Automatically Run the Program.
+
 Once started, the authentication dialog will appear and allow you to create an account or sign in to an existing vault.
 
 ## Objective
